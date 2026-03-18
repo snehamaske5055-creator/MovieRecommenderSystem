@@ -1,6 +1,6 @@
 # Movie Recommender System 🎬
 
-[View Movie Recommender System](https://movierecommendersystem-3mwpnnrwcxlph9wavxwhob.streamlit.app/)
+[View Movie Recommender System](https://movierecommendersystem-6nfhemtppzs4vyzxevdpwh.streamlit.app/)
 
 ## Overview
 
@@ -64,7 +64,7 @@ You can configure the app by updating the following variables in the script:
 
 You can view the live Movie Recommender System app by clicking on the link below:
 
-[View Movie Recommender System](https://movierecommendersystem-3mwpnnrwcxlph9wavxwhob.streamlit.app/)
+[View Movie Recommender System](https://movierecommendersystem-6nfhemtppzs4vyzxevdpwh.streamlit.app/)
 
 ## Contact
 
